@@ -8,12 +8,12 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=J0vana23&show_icons=true&count_private=true&hide_border=true&title_color=FF3898&icon_color=FFDA78&text_color=DFDADA&bg_color=0d1117" alt="Jovana Oliveira github stats" /> 
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lehguanaes&layout=compact&hide_border=true&title_color=FF3898&text_color=DFDADA&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J0vana23&layout=compact&hide_border=true&title_color=FF3898&text_color=DFDADA&bg_color=0d1117" />
 </div>
 
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lehguanaes&bg_color=0d1117&color=dfdada&line=ff3898&point=c7c7c7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=J0vana23&bg_color=0d1117&color=dfdada&line=ff3898&point=c7c7c7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
